@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Engenharia de Software e Desenvolvedor em formação. Moro no Brasil 🇧🇷</p>
+<p align="left">Estudante de Engenharia de Software e Desenvolvedor em formação. Moro no Brasil </p>
 
 
 ###
@@ -30,7 +30,7 @@ Busco evoluir continuamente e construir soluções eficientes, escaláveis e bem
 
 ###
 
-<h2 align="left">Eu desenvolvo em C#, tambem em Java. </h2>
+<h2 align="left">Experiência em desenvolvimento com C#, Java e ASP.NET, além de aplicações web com JavaScript e projetos em Dart.</h2>
 
 ###
 
