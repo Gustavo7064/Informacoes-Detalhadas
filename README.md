@@ -1,8 +1,9 @@
-<h1 align="left">Ei 👋 Como vai?</h1>
+<h1 align="left">Ei 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">Meu nome e Gustavo e eu sou um Engenheiro de Software, Desenvolvedor de Sistemas! Moro no Brasil!</p>
+<p align="left">Estudante de Engenharia de Software e Desenvolvedor em formação. Moro no Brasil 🇧🇷</p>
+
 
 ###
 
@@ -14,23 +15,14 @@
 🎓 Graduando em Engenharia de Software  
 💻 Desenvolvedor desde 2025  
 
-Sou apaixonado por tecnologia e desenvolvimento de software.  
-Comecei a programar em 2025 e desde então venho construindo projetos próprios para evoluir minhas habilidades técnicas e minha visão de engenharia.
+Atualmente focado em desenvolvimento Back-end, construção de APIs e boas práticas de arquitetura.
 
-Tenho foco em:
+Venho desenvolvendo projetos próprios para fortalecer minha base em lógica, estrutura de dados e organização de código.
 
-- Desenvolvimento Back-end
-- Lógica de Programação e Estrutura de Dados
-- Construção de APIs
-- Versionamento com Git
-- Projetos práticos com foco em aprendizado real
-
-🚀 Aqui você encontrará meus projetos individuais, onde aplico na prática o que estudo na faculdade e no curso técnico.
-
-Sempre buscando evoluir como desenvolvedor e construir soluções eficientes, escaláveis e bem estruturadas.
+Busco evoluir continuamente e construir soluções eficientes, escaláveis e bem estruturadas.
 
 <p align="left">
-✨ Construindo projetos reais desde 2025<br>
+✨ Construindo projetos reais desde 2024<br>
 📚 Atualmente estudando Estrutura de Dados, Algoritmos e Arquitetura de Software<br>
 🎯 Objetivo: me tornar um desenvolvedor back-end altamente qualificado<br>
 🚀 Focado em evolução contínua e código limpo, eficiente e escalável
