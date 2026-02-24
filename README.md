@@ -62,7 +62,7 @@ Construindo projetos reais e evoluindo continuamente como engenheiro de software
 ## 📚 Formação
 
 🎓 Técnico em Desenvolvimento de Sistemas — ETEC Basilides de Godoy  
-🎓 Graduando em Engenharia de Software  
+🎓 Graduando em Engenharia de Software — Universidade Cidade de São Paulo
 
 ---
 
